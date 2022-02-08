@@ -1,5 +1,5 @@
 # StockAndPriceChecker
 
-##Under Development
+##Under maintanance
 
 This tool is still in development
